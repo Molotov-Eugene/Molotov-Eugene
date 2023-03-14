@@ -1,6 +1,6 @@
 ### Hey! Have a good day, fellow!
 ---
-<img align='right' alt='GIF' vertical-align='center' src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w_s.gif' width='280px'/>
+<img align='right' alt='GIF' vertical-align='center' src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w_s.gif' width='280px' height='220px'/>
 
 ```javascript
 const developer = {
@@ -15,8 +15,5 @@ const developer = {
   },
 };
 ```
-
-### stats:
-<!--START_SECTION:SHOW_LANGUAGE-->
-<!--END_SECTION:SHOW_LANGUAGE-->
+Less talk more action
 
