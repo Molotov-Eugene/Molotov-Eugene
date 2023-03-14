@@ -1,5 +1,5 @@
 ### Hey! Have a good day, fellow!
---
+---
 <img align='right' alt='GIF' vertical-align='center' src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w_s.gif' width='280px'/>
 
 ```javascript
@@ -16,7 +16,7 @@ const developer = {
 };
 ```
 
-#### stats:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### stats:
+<!--START_SECTION:SHOW_LANGUAGE-->
+<!--END_SECTION:SHOW_LANGUAGE-->
 
