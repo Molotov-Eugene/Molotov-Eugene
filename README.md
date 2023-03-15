@@ -1,6 +1,6 @@
 ### Hey! Have a good day, fellow!
 ---
-<img align='right' alt='GIF' vertical-align='center' src='.src/giphy.gif' width='280px' height='222px'/>
+<img align='right' alt='GIF' vertical-align='center' src='./src/giphy.gif' width='280px' height='222px'/>
 
 ```javascript
 const developer = {
