@@ -10,7 +10,6 @@ jobs:
     name: update metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
