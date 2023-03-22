@@ -1,9 +1,8 @@
 name: Waka_Readme
 
 on:
-  push:
   schedule:
-    - cron: '* 4/6 * * *'
+    - cron: '* 4 * * *'
 
 jobs:
   update-readme:
