@@ -20,16 +20,16 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 March 2023 - To: 18 April 2023
+From: 13 March 2023 - To: 19 April 2023
 
-Total Time: 62 hrs 46 mins
+Total Time: 63 hrs 7 mins
 
-CSS                        24 hrs 51 mins  ✎✎✎✎✎✎✎✎✎✎...............   39.61 %
-JavaScript                 15 hrs 34 mins  ✎✎✎✎✎✎...................   24.81 %
-HTML                       14 hrs 11 mins  ✎✎✎✎✎✎...................   22.60 %
-Vim Script                 2 hrs 41 mins   ✎........................   04.29 %
-YAML                       2 hrs 29 mins   ✎........................   03.96 %
-Markdown                   1 hr 5 mins     .........................   01.74 %
+CSS                        24 hrs 54 mins  ✎✎✎✎✎✎✎✎✎✎...............   39.47 %
+JavaScript                 15 hrs 39 mins  ✎✎✎✎✎✎...................   24.81 %
+HTML                       14 hrs 19 mins  ✎✎✎✎✎✎...................   22.70 %
+Vim Script                 2 hrs 41 mins   ✎........................   04.27 %
+YAML                       2 hrs 29 mins   ✎........................   03.94 %
+Markdown                   1 hr 5 mins     .........................   01.73 %
 ```
 
 <!--END_SECTION:waka-->
