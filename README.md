@@ -19,7 +19,7 @@ const developer = {
 <div align="center">
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 13 March 2023 - To: 01 June 2023
 
 Total Time: 76 hrs 59 mins
