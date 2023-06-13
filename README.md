@@ -20,7 +20,7 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2023 - To: 11 June 2023
+From: 13 March 2023 - To: 12 June 2023
 
 Total Time: 77 hrs 3 mins
 
