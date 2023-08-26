@@ -20,15 +20,15 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2023 - To: 24 August 2023
+From: 13 March 2023 - To: 25 August 2023
 
-Total Time: 82 hrs 52 mins
+Total Time: 82 hrs 57 mins
 
-CSS                        25 hrs 1 min    ✎✎✎✎✎✎✎✎.................   30.20 %
-JavaScript                 18 hrs 36 mins  ✎✎✎✎✎✎...................   22.46 %
-HTML                       14 hrs 35 mins  ✎✎✎✎.....................   17.60 %
-Other                      7 hrs 3 mins    ✎✎.......................   08.52 %
-SCSS                       4 hrs 56 mins   ✎........................   05.96 %
+CSS                        25 hrs 1 min    ✎✎✎✎✎✎✎✎.................   30.16 %
+JavaScript                 18 hrs 41 mins  ✎✎✎✎✎✎...................   22.52 %
+HTML                       14 hrs 35 mins  ✎✎✎✎.....................   17.59 %
+Other                      7 hrs 3 mins    ✎✎.......................   08.51 %
+SCSS                       4 hrs 56 mins   ✎........................   05.95 %
 ```
 
 <!--END_SECTION:waka-->
