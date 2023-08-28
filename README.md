@@ -15,7 +15,9 @@ const developer = {
   },
 };
 ```
-
+<p align="center">
+  Last week I spent:
+</p>
 <div align="center">
 <!--START_SECTION:waka-->
 
