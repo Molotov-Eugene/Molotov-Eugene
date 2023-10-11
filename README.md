@@ -24,8 +24,8 @@ const developer = {
 ```txt
 Total Time: 2 hrs
 
-JavaScript   1 hr 51 mins    ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎..   92.24 %
-JSON         8 mins          ✎✎.......................   06.90 %
+JavaScript   1 hr 50 mins    ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎..   92.20 %
+JSON         8 mins          ✎✎.......................   06.94 %
 Makefile     1 min           .........................   00.86 %
 ```
 
