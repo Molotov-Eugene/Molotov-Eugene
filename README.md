@@ -22,10 +22,9 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 mins
+Total Time: 6 mins
 
-JavaScript   21 mins         ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎.   95.48 %
-Makefile     1 min           ✎........................   04.52 %
+JavaScript   6 mins          ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎   100.00 %
 ```
 
 <!--END_SECTION:waka-->
