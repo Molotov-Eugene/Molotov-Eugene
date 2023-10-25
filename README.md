@@ -22,13 +22,10 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 10 mins
+Total Time: 55 mins
 
-Markdown      45 mins         ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎.........   64.22 %
-INI           13 mins         ✎✎✎✎✎....................   18.69 %
-Text          9 mins          ✎✎✎......................   13.41 %
-Ezhil         1 min           ✎........................   02.68 %
-Objective-C   0 secs          .........................   00.70 %
+Markdown   45 mins         ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎....   82.73 %
+Text       9 mins          ✎✎✎✎.....................   17.27 %
 ```
 
 <!--END_SECTION:waka-->
