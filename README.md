@@ -22,10 +22,9 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 mins
+Total Time: 3 mins
 
-Python   3 mins          ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎.....   81.48 %
-conf     0 secs          ✎✎✎✎✎....................   18.52 %
+Python   3 mins          ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎   100.00 %
 ```
 
 <!--END_SECTION:waka-->
