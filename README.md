@@ -22,13 +22,13 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 hrs 54 mins
+Total Time: 21 hrs 45 mins
 
-TypeScript    16 hrs 25 mins  ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎........   68.69 %
-CSS           6 hrs 46 mins   ✎✎✎✎✎✎✎..................   28.34 %
-Markdown      20 mins         .........................   01.42 %
-Image (svg)   7 mins          .........................   00.53 %
-Bash          4 mins          .........................   00.35 %
+TypeScript    17 hrs 19 mins  ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎.....   79.57 %
+CSS           4 hrs 7 mins    ✎✎✎✎✎....................   18.98 %
+Image (svg)   7 mins          .........................   00.58 %
+Bash          4 mins          .........................   00.38 %
+JavaScript    1 min           .........................   00.15 %
 ```
 
 <!--END_SECTION:waka-->
