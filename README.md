@@ -22,11 +22,10 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 23 mins
+Total Time: 1 hr 22 mins
 
-TypeScript   1 hr 1 min      ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎......   74.61 %
-CSS          17 mins         ✎✎✎✎✎....................   21.43 %
-JSON         3 mins          ✎........................   03.95 %
+TypeScript   1 hr 21 mins    ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎   99.74 %
+CSS          0 secs          .........................   00.26 %
 ```
 
 <!--END_SECTION:waka-->
