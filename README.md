@@ -24,8 +24,7 @@ const developer = {
 ```txt
 Total Time: 0 secs
 
-JSON       0 secs          ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎....   84.64 %
-Markdown   0 secs          ✎✎✎✎.....................   15.36 %
+JSON   0 secs          ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎   100.00 %
 ```
 
 <!--END_SECTION:waka-->
