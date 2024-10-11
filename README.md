@@ -24,8 +24,9 @@ const developer = {
 ```txt
 Total Time: 9 mins
 
-TypeScript   9 mins          ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎   99.28 %
-Markdown     0 secs          .........................   00.72 %
+TypeScript   9 mins          ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎..   93.46 %
+Other        0 secs          ✎........................   05.86 %
+Markdown     0 secs          .........................   00.68 %
 ```
 
 <!--END_SECTION:waka-->
